@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maophung2001
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning MERN Stack.
+- 👀 I’m interested in Machine Learning and Software Development.
+- 🌱 I'm currently learning Machine Learning and Cryptography.
 - 💞️ I’m looking to collaborate on Web Development projects. I mainly focus on the Front End part of the development.
 - 📫 How to reach me -
 -     Email : laharym@gmail.com
