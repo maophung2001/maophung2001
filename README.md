@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @maophung2001
+- 👋 Hi, I’m Maophung Lu Lahary
 - 👀 I’m interested in Machine Learning and Software Development.
 - 🌱 I'm currently learning Machine Learning and Cryptography.
-- 💞️ I’m looking to collaborate on Web Development projects. I mainly focus on the Front End part of the development.
+- 💞️ I’m looking to collaborate on Web Development and Machine Learning projects.
 - 📫 How to reach me -
--     Email : laharym@gmail.com
+-     Email : u20cse1044@cit.ac.in
 -     Twitter : @maophoong_
 -     Instagram : @maophoong._
+-     LinkedIn : https://www.linkedin.com/in/maophung-lu-lahary-575317204/
 
 <!---
 maophung2001/maophung2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
