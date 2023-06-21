@@ -6,9 +6,9 @@
 
 <h3 align="center">Contact Me</h3>
 <p align="Center">
-<a href="u20cse1044@cit.ac.in"><img src="https://github.com/maophung2001/maophung2001/blob/main/icons8-gmail-48.png" width=21px target="_blank"></a>
-<a href="https://twitter.com/maophoong"><img src="https://github.com/maophung2001/maophung2001/blob/main/icons8-twitter-48.png" width=21px target="_blank"></a>
-<a href="https://www.linkedin.com/in/maophung-lu-lahary-575317204/"><img src="https://github.com/maophung2001/maophung2001/blob/main/icons8-linkedin-48.png" width=21px target="_blank"></a>
+<a href="u20cse1044@cit.ac.in" target="_blank"><img src="https://github.com/maophung2001/maophung2001/blob/main/icons8-gmail-48.png" width=21px ></a>
+<a href="https://twitter.com/maophoong" target="_blank"><img src="https://github.com/maophung2001/maophung2001/blob/main/icons8-twitter-48.png" width=21px></a>
+<a href="https://www.linkedin.com/in/maophung-lu-lahary-575317204/" target="_blank"><img src="https://github.com/maophung2001/maophung2001/blob/main/icons8-linkedin-48.png" width=21px ></a>
 </p>
 <!---
 maophung2001/maophung2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
